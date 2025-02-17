@@ -112,7 +112,7 @@ const Carousel: React.FC<Prop> = ({ images }) => {
           />
         </label>
         <label className="Carousel__label">
-          Animatin duration :
+          Animation duration :
           <input
             type="number"
             defaultValue={DEFAULT_DURATION}
